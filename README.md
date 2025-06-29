@@ -13,7 +13,7 @@ Players fight off endless waves of enemies, upgrade characters, and defeat bosse
 
 > These images represent the actual game delivered to the client:
 
-![Gameplay](screenshots/ss1.jpg)  
+![Gameplay](screenshots/Ice Defender.jpg)  
 ![Boss Fight](screenshots/ss2.jpg)  
 ![Character Shop](screenshots/ss3.jpg)
 
