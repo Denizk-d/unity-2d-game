@@ -12,9 +12,9 @@ Players fight off endless waves of enemies, upgrade characters, and defeat bosse
 ## 📸 Screenshots
 
 > These images represent the actual game delivered to the client:
-<img src="screenshots/Ice%20Defender%20(5).jpg" width="50%"/>
-<img src="screenshots/Ice%20Defender%20(8).jpg" width="50%"/>
-<img src="screenshots/Ice%20Defender%20(5).jpg" width="50%"/>
+<img src="screenshots/Ice%20Defender%20(8).jpg" width="35%"/>
+<img src="screenshots/Ice%20Defender%20(5).jpg" width="35%"/>
+<img src="screenshots/Ice%20Defender%20(5).jpg" width="35%"/>
 
 ## 🔒 Project Status
 - ✅ Delivered and approved by the client  
