@@ -1,22 +1,23 @@
-# 🧊 Ice Defender - 2D Survival Game
+# 🧊 Ice Defender - 2D Survival Game (Client Project)
 
-A 2D action-survival mobile game built with Unity.
+This is a 2D mobile game I developed for a freelance client.  
+Players fight off endless waves of enemies, upgrade characters, and defeat bosses in timed levels.
 
-## 🎮 Features
-- Endless enemy wave system
-- Boss fight with animated health bars
-- Character level-up and upgrade mechanics
-- Custom-designed UI/UX
-- Mobile-optimized design
+## 🔧 Built With
+- Unity (C#)
+- Custom AI system
+- Shop and upgrade system
+- Mobile-optimized interface
 
 ## 📸 Screenshots
 
+> These images represent the actual game delivered to the client:
+
 ![Gameplay](screenshots/ss1.jpg)  
 ![Boss Fight](screenshots/ss2.jpg)  
-![Character Selection](screenshots/ss3.jpg)
+![Character Shop](screenshots/ss3.jpg)
 
-## 🔒 Why is the code private?
-This project is part of my portfolio. The source code is kept private but a gameplay video/demo is available upon request.
-
-## 🎥 Demo Video
-[Insert YouTube Link Here]
+## 🔒 Project Status
+- ✅ Delivered and approved by the client  
+- 🔐 Code is private due to client confidentiality  
+- 📂 Demo video is currently not available
