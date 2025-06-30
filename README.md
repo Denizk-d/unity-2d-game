@@ -16,7 +16,7 @@ Players fight off endless waves of enemies, upgrade characters, and defeat bosse
 <img src="screenshots/Ice_defender_ch_change.gif" width="35%"/>
 <img src="screenshots/Ice%20Defender%20(5).jpg" width="35%"/>
 <img src="screenshots/Ice%20Defender%20(7).jpg" width="35%"/>
-
+<img src="screenshots/boss.gif" width="35%"/>
 ## 🔒 Project Status
 - ✅ Delivered and approved by the client  
 - 🔐 Code is private due to client confidentiality  
